@@ -7,13 +7,7 @@ The system generates **Ward-Level Readiness Scores** and visualizes risk on an i
 
 ---
 
-## 🗺️ Dashboard Preview
 
-![Flood Risk Dashboard](https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=1200&auto=format&fit=crop)
-
-Interactive dashboard showing predicted flood hotspots across Delhi.
-
----
 
 ## ⚙️ How It Works
 
@@ -86,13 +80,7 @@ The system generates **Ward-Level Readiness Scores** and visualizes risk on an i
 
 ---
 
-## 🗺️ Dashboard Preview
 
-![Flood Risk Dashboard](https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=1200&auto=format&fit=crop)
-
-Interactive dashboard showing predicted flood hotspots across Delhi.
-
----
 
 ## ⚙️ How It Works
 
